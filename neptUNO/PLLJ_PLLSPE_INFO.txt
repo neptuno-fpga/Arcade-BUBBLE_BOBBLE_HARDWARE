@@ -1,0 +1,10 @@
+PLL_Name	jtframe_pll0:u_pll_game|altpll:altpll_component|jtframe_pll0_altpll:auto_generated|pll1
+PLLJITTER	36
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	jtframe_pll1:u_pll_vga|altpll:altpll_component|jtframe_pll1_altpll:auto_generated|pll1
+PLLJITTER	32
+PLLSPEmax	84
+PLLSPEmin	-53
+
